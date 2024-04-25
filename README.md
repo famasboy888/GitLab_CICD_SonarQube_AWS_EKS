@@ -1,1 +1,1 @@
-# SonarQube_GitLab_CICD
+# SonarQube integration in GitLab CICD
