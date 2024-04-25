@@ -19,6 +19,8 @@ The working sample repository is found here: [my GitLab repo](https://gitlab.com
 
 #### During Failure
 
+It will still send report to Sonar Qube server ut it won't continue building the Docker image
+
 <p align="left">
   <img width="80%" height="80%" src="https://github.com/famasboy888/SonarQube_GitLab_CICD/assets/23441168/061b3924-43ba-4707-961f-4a32ed79688b">
 </p>
