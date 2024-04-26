@@ -51,9 +51,6 @@ If fails, it will still send report to Sonar Qube server but it won't continue b
   <img width="80%" height="80%" src="https://github.com/famasboy888/SonarQube_GitLab_CICD/assets/23441168/061b3924-43ba-4707-961f-4a32ed79688b">
 </p>
 
-
-## 4) During Failure
-
-## 5) Deploy python Flask webapp to AWS Elastic Kubernetes
+## 4) Deploy python Flask webapp to AWS Elastic Kubernetes
 
 
