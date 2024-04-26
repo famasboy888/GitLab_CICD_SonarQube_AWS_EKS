@@ -21,7 +21,7 @@ Objectives:
 The working sample repository is found here: [my GitLab repo](https://gitlab.com/kyleyap/sonarqube_cicd_gitlab)
 
 <p align="left">
-  <img width="80%" height="80%" src="https://github.com/famasboy888/SonarQube_GitLab_CICD/assets/23441168/dd582884-ac1c-4fad-949d-07e9e8aea5a3">
+  <img width="80%" height="80%" src="https://github.com/famasboy888/SonarQube_GitLab_CICD/assets/23441168/c09c3dff-34d4-4dfa-b00e-cf32095ea1d2">
 </p>
 
 ## 2) Make sure SonarQube server is up and running
