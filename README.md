@@ -53,7 +53,13 @@ If fails, it will still send report to Sonar Qube server but it won't continue b
 
 ## 4) Deploy python Flask webapp to AWS Elastic Kubernetes
 
-We will deploy our Flask Webapp in EKS via ArgoCD
+We will deploy our Flask Webapp in EKS via ArgoCD.
+
+Notice that we can access ArgoCD by using LoadBalancer generated DNS.
+
+After creation of Project from ArgoCD, it will create a another LoadBalancer service for our Flask App. 
+
+We will be able to access our Flask webapp from the newly generated DNS.
 
 <p align="left">
   <img width="100%" height="100%" src="https://github.com/famasboy888/GitLab_CICD_SonarQube_AWS_EKS/assets/23441168/36cb2d9a-456d-4330-b09d-97bd8ed61069">
