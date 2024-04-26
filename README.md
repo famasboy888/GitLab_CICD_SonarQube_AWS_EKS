@@ -1,5 +1,9 @@
 # SonarQube integration in GitLab CICD + AWS EKS | End-to-End Project
 
+<div align="center">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-plain-wordmark.svg" title="SonarQube" alt="SonarQube" width="100" height="100"/>&nbsp; <h1>➕</h1>
+</div>
+
 Objectives:
 
 - ☑️ Push a working Python Flask app to Gitlab repository
