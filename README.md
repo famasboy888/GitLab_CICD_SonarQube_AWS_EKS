@@ -80,6 +80,11 @@ Since this a run through, we will try to simulate a real codde change in a proje
 
 ➡️ Flow:
 - Create an Issue in GitLab and create feature branch
+
+<p align="left">
+  <img width="80%" height="80%" src="https://github.com/famasboy888/GitLab_CICD_SonarQube_AWS_EKS/assets/23441168/24b36eb4-7131-46c0-b876-3b40959079ba">
+</p>
+  
 - Address the issue (we will modify the code)
 - Push to feature branch
 - Create Merge request to main branch
