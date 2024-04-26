@@ -86,7 +86,7 @@ Since this a run through, we will try to simulate a real codde change in a proje
 </p>
   
 - Address the issue (we will modify the code) and Push to feature branch
-- 
+
 <p align="left">
   <img width="50%" height="50%" src="https://github.com/famasboy888/GitLab_CICD_SonarQube_AWS_EKS/assets/23441168/d9655cd0-e9f8-48b3-935a-9c5f9fb4e695">
 </p>
