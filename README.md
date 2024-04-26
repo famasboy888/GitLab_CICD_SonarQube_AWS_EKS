@@ -1,7 +1,7 @@
 # SonarQube integration in GitLab CICD + AWS EKS | End-to-End Project
 
 <div align="center">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-plain-wordmark.svg" title="SonarQube" alt="SonarQube" width="100" height="100"/>&nbsp; <h1>➕</h1>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-plain-wordmark.svg" title="SonarQube" alt="SonarQube" width="100" height="100"/>&nbsp;➕
 </div>
 
 Objectives:
