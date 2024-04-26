@@ -35,7 +35,17 @@ I used my previous project [SonarQube on Docker compose](https://github.com/fama
 
 ## 3) Create working CI/CD pipeline:
 
-It will still send report to Sonar Qube server but it won't continue building the Docker image
+CI/CD pipeline will only trigger when there is a Merge Request to `main` branch.
+
+<p align="left">
+  <img width="80%" height="80%" src="https://github.com/famasboy888/SonarQube_GitLab_CICD/assets/23441168/80d70071-91b6-406c-a817-6c253fac2d87">
+</p>
+
+<p align="left">
+  <img width="80%" height="80%" src="https://github.com/famasboy888/SonarQube_GitLab_CICD/assets/23441168/7b8976f5-e868-4ad4-aabc-4f456072983f">
+</p>
+
+If fails, it will still send report to Sonar Qube server but it won't continue building the Docker image
 
 <p align="left">
   <img width="80%" height="80%" src="https://github.com/famasboy888/SonarQube_GitLab_CICD/assets/23441168/061b3924-43ba-4707-961f-4a32ed79688b">
