@@ -97,7 +97,7 @@ Since this a run through, we will try to simulate a real codde change in a proje
   <img width="50%" height="50%" src="https://github.com/famasboy888/GitLab_CICD_SonarQube_AWS_EKS/assets/23441168/35de8b50-9432-4f2b-b47a-f6f422baf581">
 </p>
 
-- Let the pipeline run and do it's magic
+- Let the pipeline run and do it's magic. We can also check that reports were displayed in our SonarQube server.
 
 <p align="left">
   <img width="50%" height="50%" src="https://github.com/famasboy888/GitLab_CICD_SonarQube_AWS_EKS/assets/23441168/2eb23a92-85e4-4109-84be-a36121c984d4">
