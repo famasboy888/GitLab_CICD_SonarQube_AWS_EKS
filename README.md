@@ -82,13 +82,25 @@ Since this a run through, we will try to simulate a real codde change in a proje
 - Create an Issue in GitLab and create feature branch
 
 <p align="left">
-  <img width="80%" height="80%" src="https://github.com/famasboy888/GitLab_CICD_SonarQube_AWS_EKS/assets/23441168/24b36eb4-7131-46c0-b876-3b40959079ba">
+  <img width="50%" height="50%" src="https://github.com/famasboy888/GitLab_CICD_SonarQube_AWS_EKS/assets/23441168/24b36eb4-7131-46c0-b876-3b40959079ba">
 </p>
   
-- Address the issue (we will modify the code)
-- Push to feature branch
+- Address the issue (we will modify the code) and Push to feature branch
+- 
+<p align="left">
+  <img width="50%" height="50%" src="https://github.com/famasboy888/GitLab_CICD_SonarQube_AWS_EKS/assets/23441168/d9655cd0-e9f8-48b3-935a-9c5f9fb4e695">
+</p>
+  
 - Create Merge request to main branch
+
+<p align="left">
+  <img width="50%" height="50%" src="https://github.com/famasboy888/GitLab_CICD_SonarQube_AWS_EKS/assets/23441168/35de8b50-9432-4f2b-b47a-f6f422baf581">
+</p>
+
 - Let the pipeline run and do it's magic
+
+
+  
 - Confirm the changes
 
 
