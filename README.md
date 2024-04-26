@@ -2,7 +2,7 @@
 
 <div align="center">
    <img src="https://github.com/famasboy888/GitLab_CICD_SonarQube_AWS_EKS/assets/23441168/f4f3d837-197d-4428-8f65-90f6057ad19c" title="SonarQube" alt="SonarQube" width="100" height="100"/>&nbsp;&nbsp;
-   <img src="https://github.com/famasboy888/GitLab_CICD_SonarQube_AWS_EKS/assets/23441168/e1707300-7bcd-4bff-a5ae-276c3151d87a" title="Gitlab" alt="Gitlab" width="100" height="100"/>&nbsp;&nbsp;
+   <img src="https://github.com/famasboy888/GitLab_CICD_SonarQube_AWS_EKS/assets/23441168/e1707300-7bcd-4bff-a5ae-276c3151d87a" title="Gitlab" alt="Gitlab" width="100%" height="100"/>&nbsp;&nbsp;
    <img src="https://github.com/famasboy888/GitLab_CICD_SonarQube_AWS_EKS/assets/23441168/a5ccd83d-7812-4437-9b48-9833431cb5c4" title="EKS" alt="EKS" width="100" height="100"/>&nbsp;&nbsp;
 </div>
 
