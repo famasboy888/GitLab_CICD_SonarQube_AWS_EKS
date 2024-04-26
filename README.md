@@ -65,4 +65,16 @@ We will be able to access our Flask webapp from the newly generated DNS.
   <img width="100%" height="100%" src="https://github.com/famasboy888/GitLab_CICD_SonarQube_AWS_EKS/assets/23441168/36cb2d9a-456d-4330-b09d-97bd8ed61069">
 </p>
 
+---
+
+# Demo - full run through of the Pipeline
+
+🏁 Our goal is to see our code changes reflect **seamlessly** to the live web application.
+
+Currently, this is how our Flask app looks like. We will change **GitLab CI/CD demo webapp** > **GitLab CI/CD demo webapp + AWS EKS** and add some cool picture after.
+
+<p align="left">
+  <img width="50%" height="50%" src="https://github.com/famasboy888/GitLab_CICD_SonarQube_AWS_EKS/assets/23441168/16f5632f-d834-43e1-8afc-4b828fd02d6e">
+</p>
+
 
