@@ -29,7 +29,7 @@ The working sample repository is found here: [my GitLab repo](https://gitlab.com
 I used my previous project [SonarQube on Docker compose](https://github.com/famasboy888/SonarQube_docker)
 
 <p align="left">
-  <img width="80%" height="80%" src="https://github.com/famasboy888/SonarQube_GitLab_CICD/assets/23441168/37595dca-a52e-4017-b03e-587a17415484">
+  <img width="80%" height="80%" src="https://github.com/famasboy888/SonarQube_GitLab_CICD/assets/23441168/6263af74-5b85-4cc0-bb6b-b9552705c3a2">
 </p>
 
 
