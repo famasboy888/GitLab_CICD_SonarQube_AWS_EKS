@@ -10,9 +10,8 @@ Objectives:
     - 🏁 Run Test job
     - 🏁 Run Sonar Qube scan job
     - 🏁 If no failure, build docker image and push to DockerHub
-- ☑️ Deploy python Flask webapp to AWS Elastic Kubernetes:
-  - ✔️ ArgoCD will listen to changes from Main branch
-  - ✔️ ArgoCD will redeploy to EKS using Helm chart
+- ☑️ Deploy python Flask webapp to AWS Elastic Kubernetes
+- ☑️ See demo run through
 
 
 
