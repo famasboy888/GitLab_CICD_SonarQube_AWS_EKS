@@ -26,6 +26,13 @@ The working sample repository is found here: [my GitLab repo](https://gitlab.com
 
 ## 2) Make sure SonarQube server is up and running
 
+I used my previous project [SonarQube on Docker compose](https://github.com/famasboy888/SonarQube_docker)
+
+<p align="left">
+  <img width="80%" height="80%" src="https://github.com/famasboy888/SonarQube_GitLab_CICD/assets/23441168/37595dca-a52e-4017-b03e-587a17415484">
+</p>
+
+
 ## 3) Create working CI/CD pipeline:
 
 It will still send report to Sonar Qube server but it won't continue building the Docker image
