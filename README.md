@@ -77,4 +77,15 @@ Currently, this is how our Flask app looks like. We will change **GitLab CI/CD d
   <img width="50%" height="50%" src="https://github.com/famasboy888/GitLab_CICD_SonarQube_AWS_EKS/assets/23441168/16f5632f-d834-43e1-8afc-4b828fd02d6e">
 </p>
 
+Since this a run through, we will try to simulate a real codde change in a project. Will will follow the following flow:
+
+➡️ Flow:
+- Create an Issue in GitLab and create feature branch
+- Address the issue (we will modify the code)
+- Push to feature branch
+- Create Merge request to main branch
+- Let the pipeline run and do it's magic
+- Confirm the changes
+
+
 
